@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TestClass.m"
 
 @interface ViewController : UIViewController
 

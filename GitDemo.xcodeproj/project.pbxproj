@@ -15,6 +15,7 @@
 		19FE6A991C36BE90007F1001 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19FE6A971C36BE90007F1001 /* LaunchScreen.storyboard */; };
 		19FE6AA41C36BE90007F1001 /* GitDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 19FE6AA31C36BE90007F1001 /* GitDemoTests.m */; };
 		19FE6AAF1C36BE90007F1001 /* GitDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 19FE6AAE1C36BE90007F1001 /* GitDemoUITests.m */; };
+		19FE6ABD1C36C5C9007F1001 /* TestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 19FE6ABC1C36C5C9007F1001 /* TestClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		19FE6AAA1C36BE90007F1001 /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		19FE6AAE1C36BE90007F1001 /* GitDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitDemoUITests.m; sourceTree = "<group>"; };
 		19FE6AB01C36BE90007F1001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19FE6ABC1C36C5C9007F1001 /* TestClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				19FE6A8D1C36BE90007F1001 /* AppDelegate.m */,
 				19FE6A8F1C36BE90007F1001 /* ViewController.h */,
 				19FE6A901C36BE90007F1001 /* ViewController.m */,
+				19FE6ABC1C36C5C9007F1001 /* TestClass.m */,
 				19FE6A921C36BE90007F1001 /* Main.storyboard */,
 				19FE6A951C36BE90007F1001 /* Assets.xcassets */,
 				19FE6A971C36BE90007F1001 /* LaunchScreen.storyboard */,
@@ -270,6 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19FE6ABD1C36C5C9007F1001 /* TestClass.m in Sources */,
 				19FE6A911C36BE90007F1001 /* ViewController.m in Sources */,
 				19FE6A8E1C36BE90007F1001 /* AppDelegate.m in Sources */,
 				19FE6A8B1C36BE90007F1001 /* main.m in Sources */,
